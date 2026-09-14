@@ -1,14 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 div {
     width: 80%;
     margin: 0 auto;
-    padding: 10px 30px;
+    padding: 20px 30px;
     border: 1px solid black;
 }
 h1 {
     text-align: center;
     font-size: 38px;
+    margin-bottom: 15px;
 }
+
 
 img{
     width: 100%;
+    margin-bottom: 20px;
+}
+
+h2 {
+    margin: 20px 0;
+}
+
+a {
+    display: inline-block;
+    margin: 15px auto;
+    
 }
